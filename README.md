@@ -1,3 +1,12 @@
+DATA ANALYSIS SUMMARY
+
+PYCITYSCHOOLS ANALYSIS
+The top 5 highest high schools were all charter schools and the top 5 bottom performing high schools were all district schools. Through the data provided, we can see that charter schools had an average of about 95% overall passing scores while the district schools had an average of overall 73% passing scores. Under the Scores by Spending, it can be seen that the schools who spent on average < 585𝑎𝑛𝑑𝑎𝑛𝑦𝑤ℎ𝑒𝑟𝑒𝑏𝑒𝑡𝑤𝑒𝑒𝑛 585-615 yielded the highest scores. Although, schools which are medium sized in Total Students had the highest passing scores on average, with an average Per student budget of $605.60.
+
+We can conclude that small to medium sized charter schools with Per student budgets averages of  595𝑎𝑛𝑑 605 will yield the highest passing scores.
+
+
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 Background
 You are the new Chief Data Scientist for your city's school district. In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
